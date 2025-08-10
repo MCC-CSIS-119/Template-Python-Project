@@ -1,2 +1,3 @@
 # Template-Python-Project
-Template for Python projects
+
+Repository Template for Python projects in GitHub Classroom
